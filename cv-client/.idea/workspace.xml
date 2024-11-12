@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ad1e42d-8f41-45fb-825a-cf122a245e36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cv-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/devices_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/socket_connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/status_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/device_status_ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/ui_main_window.py" afterDir="false" />
-    </list>
+    <list default="true" id="7ad1e42d-8f41-45fb-825a-cf122a245e36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,8 +22,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:jedsaro/capview.git",
+    "accountId": "f6b9d395-7b3a-4587-a0e5-8f15f4d1f70a"
+  }
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -107,7 +97,7 @@
       <workItem from="1731295716757" duration="4781000" />
       <workItem from="1731380942003" duration="3790000" />
       <workItem from="1731406468949" duration="22000" />
-      <workItem from="1731407329641" duration="1763000" />
+      <workItem from="1731407329641" duration="2369000" />
     </task>
     <servers />
   </component>
